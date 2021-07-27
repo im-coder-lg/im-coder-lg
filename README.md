@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I am a programmer(obviously jk, `no offense`) and got some sense of Jekyll(intermediate)</div>  
+### I am a programmer(obviously jk, `no offense`) and got some sense of Jekyll(intermediate)  
   
 
 - 🔭 I’m currently working on something idk  
