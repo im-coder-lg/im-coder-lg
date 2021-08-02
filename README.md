@@ -63,7 +63,8 @@
 
 <br/>  
 
-
+# What I like to do
+Play games, play chess, make blogs on programming, help others on GitHub
 
 ------
 ## Recent Blog Posts  
