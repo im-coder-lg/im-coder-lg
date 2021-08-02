@@ -64,6 +64,8 @@
 <br/>  
 
 
+
+------
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Blog 2: New blogs and a notes site!](https://coder-lg.github.io/my-blog/2021/08/02/blog-2.html)
@@ -72,6 +74,8 @@
 - [Markdown: Introduction](https://coderlg.coding.blog/2021-07-26_mdch1)
 - [Blog 1: Good upgrade, bad mistake](https://coder-lg.github.io/my-blog/2021/07/09/blog-1.html)
 <!-- BLOG-POST-LIST:END -->  
+------
+
 
 <br/>  
 
