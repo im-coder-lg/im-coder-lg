@@ -69,11 +69,9 @@ Play games, play chess, make blogs on programming, help others on GitHub
 ------
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Blog 2: New blogs and a notes site!](https://coder-lg.github.io/my-blog/2021/08/02/blog-2.html)
 - [Batch files: What are they and how do I make them?](https://coderlg.coding.blog/2021-07-31-batch1)
 - [Markdown: Specials in a Markdown file as well as syntax](https://coderlg.coding.blog/2021-07-27_mdch2)
 - [Markdown: Introduction](https://coderlg.coding.blog/2021-07-26_mdch1)
-- [Blog 1: Good upgrade, bad mistake](https://coder-lg.github.io/my-blog/2021/07/09/blog-1.html)
 <!-- BLOG-POST-LIST:END -->  
 ------
 
