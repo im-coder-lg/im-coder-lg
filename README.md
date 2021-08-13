@@ -59,7 +59,7 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=coder-lg&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=im-coder-lg&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
@@ -83,7 +83,7 @@ Play games, play chess, make blogs on programming, help others on GitHub
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=coder-lg&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=im-coder-lg&&style=flat-square" align="center" />
 </div>  
   
 
