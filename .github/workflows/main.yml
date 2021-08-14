@@ -12,4 +12,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://coder-lg.github.io/my-blog/feed.xml, https://coder-lg.github.io/tech/feed.xml, https://coderlg.coding.blog/_feed.rss"
+          feed_list: "https://im-coder-lg.github.io/my-blog/feed.xml, https://im-coder-lg.github.io/tech/feed.xml, https://coderlg.coding.blog/_feed.rss"
