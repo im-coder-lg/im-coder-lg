@@ -1,6 +1,10 @@
 # Checks
 [![Latest blog post workflow](https://github.com/im-coder-lg/im-coder-lg/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/im-coder-lg/im-coder-lg/actions/workflows/main.yml)
 
+# GitHub Achievements(memorable times)
+
+ - Hitting 600 commits on August 16 of 2021 with this.
+
 Checkmate
 
 
