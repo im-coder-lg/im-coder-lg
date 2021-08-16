@@ -1,3 +1,9 @@
+# Checks
+[![Latest blog post workflow](https://github.com/im-coder-lg/im-coder-lg/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/im-coder-lg/im-coder-lg/actions/workflows/main.yml)
+
+Checkmate
+
+
 # about-me
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
