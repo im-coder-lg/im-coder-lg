@@ -43,7 +43,7 @@ Checkmate
 
 </td><td valign="top" width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-lg&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-coder-lg&hide_border=true&layout=compact" align="left" />
 
 </td><td valign="top" width="33%">
 
