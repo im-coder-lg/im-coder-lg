@@ -1,10 +1,11 @@
-# And, this is how you CHECKMATE with swag
+# About Me
+## And, this is how you CHECKMATE with swag
 
 thanks to Tenor(bad language excluded, pure chess.com edition
 
 ![Checkmate](https://c.tenor.com/YymC-AvC5nwAAAAC/chess-checkmate.gif)
 
-# Checks
+## Checks
 [![Latest blog post workflow](https://github.com/im-coder-lg/im-coder-lg/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/im-coder-lg/im-coder-lg/actions/workflows/main.yml)
 
 # GitHub Achievements(memorable times)
