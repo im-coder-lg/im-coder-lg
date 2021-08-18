@@ -1,0 +1,9 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: bundle install
+    command: echo "Dependencies installed, now opening another terminal!" && exit
+
+  - init: echo "Serving..."
+    command: bundle exec jekyll serve
