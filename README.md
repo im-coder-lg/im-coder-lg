@@ -3,7 +3,6 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/im-coder-lg/im-coder-lg)
 
-[![Build Status](https://travis-ci.com/im-coder-lg/about-me.svg?branch=main)](https://travis-ci.com/im-coder-lg/im-coder-lg)
 
 
 ## And, this is how you CHECKMATE with swag
@@ -14,6 +13,9 @@ thanks to Tenor(bad language excluded, pure chess.com edition
 
 ## Checks
 [![Latest blog post workflow](https://github.com/im-coder-lg/im-coder-lg/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/im-coder-lg/im-coder-lg/actions/workflows/main.yml)
+
+[![Build Status](https://travis-ci.com/im-coder-lg/about-me.svg?branch=main)](https://travis-ci.com/im-coder-lg/im-coder-lg)
+
 
 # GitHub Achievements(memorable times)
 
