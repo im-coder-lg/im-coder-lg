@@ -29,6 +29,9 @@ thanks to Tenor(bad language excluded, pure chess.com edition
 
 Checkmate
 
+# Social Links
+
+Hit [<kbd>here!</kbd>](./social.md)
 
 # about-me
 <div align="center">
