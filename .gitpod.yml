@@ -2,6 +2,10 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
+  - init: gem install jekyll bundle
+    command: Installed Jekyll and Bundle!
+
+
   - init: bundle install
     command: echo "Dependencies installed, now opening another terminal!" && exit
 
