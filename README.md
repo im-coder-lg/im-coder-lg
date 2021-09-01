@@ -19,8 +19,9 @@ Travis CI:
 
 
 # GitHub Achievements(memorable times)
-
+Ladies and Gentlemen, this is the GitHub achievements I hit.
  - Hitting 600 commits on August 16 of 2021 with this.
+ - 714 commits with this on 1st of September, 2021.
 
 Checkmate
 
