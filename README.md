@@ -45,6 +45,9 @@ Checkmate
 
 - ⚡ Fun fact: I love tech  
   
+- What I do when I am free: Get walking, read books, play Murder in the Alps on my phone.
+
+Note: I am smarter AND foolish than you think.
 
 <br/>  
 
