@@ -7,11 +7,11 @@
 #
 layout: home
 ---
-
 # About Me
 ## Gitpod
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/im-coder-lg/im-coder-lg)
+
 
 
 ## And, this is how you CHECKMATE with swag
@@ -23,15 +23,17 @@ thanks to Tenor(bad language excluded, pure chess.com edition
 ## Checks
 [![Latest blog post workflow](https://github.com/im-coder-lg/im-coder-lg/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/im-coder-lg/im-coder-lg/actions/workflows/main.yml)
 
-# GitHub Achievements(memorable times)
+Travis CI:
+[![Build Status](https://travis-ci.com/im-coder-lg/about-me.svg?branch=main)](https://travis-ci.com/im-coder-lg/about-me)
 
+
+# GitHub Achievements(memorable times)
+Ladies and Gentlemen, this is the GitHub achievements I hit.
  - Hitting 600 commits on August 16 of 2021 with this.
+ - 714 commits with this on 1st of September, 2021.
 
 Checkmate
 
-# Social Links
-
-Hit [<kbd>here!</kbd>](./social.md)
 
 # about-me
 <div align="center">
@@ -53,9 +55,14 @@ Hit [<kbd>here!</kbd>](./social.md)
 
 - ⚡ Fun fact: I love tech  
   
+- What I do when I am free: Get walking, read books, play Murder in the Alps on my phone.
+
+Note: I am smarter AND foolish than you think.
 
 <br/>  
 
+# Social links
+Hit [<kbd>here!</kbd>](/social.md)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -104,11 +111,11 @@ Play games, play chess, make blogs on programming, help others on GitHub
 ------
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [CODEDOC: What it is and comparison to Jekyll](https://coderlg.coding.blog/2021-08-21-codedoc)
+- [Gitpod. And the automation.](https://coderlg.coding.blog/2021-08-18-gitpodDockerfile)
 - [Blog 2: New blogs and a notes site!](https://im-coder-lg.github.io/2021/08/02/blog-2.html)
 - [Batch files: What are they and how do I make them?](https://coderlg.coding.blog/2021-07-31-batch1)
 - [Markdown: Specials in a Markdown file as well as syntax](https://coderlg.coding.blog/2021-07-27_mdch2)
-- [Markdown: Introduction](https://coderlg.coding.blog/2021-07-26_mdch1)
-- [Blog 1: Good upgrade, bad mistake](https://im-coder-lg.github.io/2021/07/09/blog-1.html)
 <!-- BLOG-POST-LIST:END -->  
 ------
 
