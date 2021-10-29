@@ -100,11 +100,11 @@ Play games, play chess, make blogs on programming, help others on GitHub
 ------
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Blog 3: My experience with the Raspberry Pi](https://im-coder-lg.github.io/2021/10/21/blog-3.html)
 - [The Intercontinental Ballistic Missile Gambit(A06)](https://coderlg.coding.blog/2021-08-28-icbm)
 - [One strange and scary Zoombooming method](https://coderlg.coding.blog/2021-08-28-zoomboom)
 - [CODEDOC: What it is and comparison to Jekyll](https://coderlg.coding.blog/2021-08-21-codedoc)
 - [Gitpod. And the automation.](https://coderlg.coding.blog/2021-08-18-gitpodDockerfile)
-- [Blog 2: New blogs and a notes site!](https://im-coder-lg.github.io/2021/08/02/blog-2.html)
 <!-- BLOG-POST-LIST:END -->  
 ------
 
