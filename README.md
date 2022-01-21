@@ -1,13 +1,37 @@
 # About Me
+
+
+I'm a teenager with great coding passion. I openly contribute in [TimerX](https://timerx-app.netlify.app), [code-server](https://code-server.dev), [GAUDC](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)(that is becoming less frequent though idk why).
+
+- Skilled in debugging and `ba$h`ing(didn't see that coming, did you?).
+- Speed typing, so fast that I make typos.
+- _Obsessed_ with website creating.
+
+[**_DO NOT CLICK THIS LINK_**](https://bit.ly/ricrll)
+
+<details>
+  <summary>For those people who ended up clicking the link:</summary>
+  
+  <details>
+    <summary>Only for them!</summary>
+    
+    Did you enjoy that? No hate, remember that!
+  
+  </details>
+  
+</details>
+
+<details>
+<summary>Old About Me:</summary>
+
+
 ## Gitpod
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/im-coder-lg/im-coder-lg)
-
-
-
+  
 ## And, this is how you CHECKMATE with swag
 
-thanks to Tenor(bad language excluded, pure chess.com edition
+thanks to Tenor(bad language excluded, pure chess.com edition)
 
 ![Checkmate](https://c.tenor.com/YymC-AvC5nwAAAAC/chess-checkmate.gif)
 
@@ -133,5 +157,9 @@ Play games, play chess, make blogs on programming, help others on GitHub
 
 <br />
 
-----
-<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
+---
+  
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+  
+  
+</details>
