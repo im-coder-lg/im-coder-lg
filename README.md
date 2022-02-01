@@ -7,7 +7,7 @@ I'm a teenager with great coding passion. I openly contribute in [TimerX](https:
 - Speed typing, so fast that I make typos.
 - _Obsessed_ with website creating.
 
-[**_DO NOT CLICK THIS LINK_**](https://bit.ly/ricrll)
+[**_DO NOT CLICK THIS LINK_**](https://bit.ly/trick-roll)
 
 <details>
   <summary>For those people who ended up clicking the link:</summary>
