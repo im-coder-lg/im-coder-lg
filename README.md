@@ -1,7 +1,7 @@
 # About Me
 
 
-I'm a teenager with great coding passion. I openly contribute in [TimerX](https://timerx-app.netlify.app), [code-server](https://code-server.dev), [GAUDC](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)(that is becoming less frequent though idk why).
+I'm a 13(!!!) teenager with great coding passion. I openly contribute in [TimerX](https://timerx-app.netlify.app), [code-server](https://code-server.dev), [GAUDC](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)(that is becoming less frequent though idk why).
 
 - Skilled in debugging and `ba$h`ing(didn't see that coming, did you?).
 - Speed typing, so fast that I make typos.
