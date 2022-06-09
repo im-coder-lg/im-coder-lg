@@ -1,3 +1,10 @@
+# spoiler alerts
+| I'm on vacation, guys! Brb Monday && don't worry I'll try responding if I can.
+| ---
+
+| Ready for Return to Instinct, guys? #phone1
+| ---
+
 # About Me
 
 
