@@ -1,5 +1,5 @@
 # spoiler alerts
-| I'm on vacation, guys! Brb Monday && don't worry I'll try responding if I can.
+| *** On schoolwork, managing class bullies - replies are given when needed, not wanted :smile: ***
 | ---
 
 | Ready for Return to Instinct, guys? #phone1
