@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [nothing? 3x+1](https://dub.sh/hahatrickrolled)
 
-- 🌱 I’m currently learning **9th grade and Python!**
+- 🌱 I’m currently learning **10th grade and Python!**
 
 - 👯 I’m looking to collaborate on [some projects](https://dub.sh/hahatrickrolled)
 
