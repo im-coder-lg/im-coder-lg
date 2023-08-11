@@ -8,11 +8,10 @@
 layout: home
 ---
 # About Me
+
 ## Gitpod
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/im-coder-lg/im-coder-lg)
-
-
 
 ## And, this is how you CHECKMATE with swag
 
@@ -26,14 +25,14 @@ thanks to Tenor(bad language excluded, pure chess.com edition
 Travis CI:
 [![Build Status](https://travis-ci.com/im-coder-lg/about-me.svg?branch=main)](https://travis-ci.com/im-coder-lg/about-me)
 
-
 # GitHub Achievements(memorable times)
+
 Ladies and Gentlemen, this is the GitHub achievements I hit.
- - Hitting 600 commits on August 16 of 2021 with this.
- - 714 commits with this on 1st of September, 2021.
+
+1. Hitting 600 commits on August 16 of 2021 with this.
+2. 714 commits with this on 1st of September, 2021.
 
 Checkmate
-
 
 # about-me
 <div align="center">
