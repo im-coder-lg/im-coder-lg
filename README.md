@@ -19,11 +19,11 @@
 
 - 📝 I regularly write articles on [imcoderlg-rkt.netlify.app](imcoderlg-rkt.netlify.app)
 
-- 💬 Ask me about **Python, packaging, tech**
+- 💬 Ask me about **Python, packaging, tech, math**
 
 - 📫 How to reach me **imcoderlg@skiff.com**
 
-- 📄 Know about my experiences [nop. beat it](nop. beat it)
+- 📄 Know about my experiences [nop. beat it](https://dub.sh/hahatrickrolled)
 
 - ⚡ Fun fact **I HATE Rook A4**
 
