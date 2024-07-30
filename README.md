@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm im-coder-lg</h1>
-<h3 align="center">A kid, who is an expert in math and exposes school scandals, but here, I code.</h3>
+<h3 align="center">A kid, who is an expert in math and exposes school scandals(occasionally), but here, I code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-coder-lg&label=Profile%20views&color=0e75b6&style=flat" alt="im-coder-lg" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [nothing? 3x+1](https://dub.sh/hahatrickrolled)
 
-- 🌱 I’m currently learning **10th grade and Python!**
+- 🌱 I’m currently learning **11th grade and Python!**
 
 - 👯 I’m looking to collaborate on [some projects](https://dub.sh/hahatrickrolled)
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/im-coder-lg](github.com/im-coder-lg)
 
-- 📝 I regularly write articles on [imcoderlg-rkt.netlify.app](imcoderlg-rkt.netlify.app)
+- 📝 I (ir)regularly write articles on [imcoderlg-rkt.netlify.app](imcoderlg-rkt.netlify.app)
 
 - 💬 Ask me about **Python, packaging, tech, math**
 
