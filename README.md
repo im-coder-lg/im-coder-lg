@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **11th grade and Python!**
 
-- 👯 I’m looking to collaborate on [some projects](https://dub.sh/hahatrickrolled)
+- 👯 I’m looking to collaborate on [some projects](https://dub.sh/hahatrickrolled) like [Weather](https://github.com/Futura-Py/weather)
 
 - 🤝 I’m looking for help with [a calendar app using math](https://dub.sh/hahatrickrolled)
 
