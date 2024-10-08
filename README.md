@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/imcoderlg" target="blank"><img src="https://img.shields.io/twitter/follow/imcoderlg?logo=twitter&style=for-the-badge" alt="imcoderlg" /></a> </p>
 
+I'm offline these days since I don't have much time to code, but I see that many people are following me/starting to follow me. I do not know why, honestly, but it's cool.
+
 - 🔭 I’m currently working on [nothing? 3x+1](https://dub.sh/hahatrickrolled)
 
 - 🌱 I’m currently learning **11th grade and Python!**
