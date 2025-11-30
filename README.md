@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm im-coder-lg</h1>
-<h3 align="center">A kid, who is an expert in math and exposes school scandals(occasionally), but here, I code.</h3>
+<h3 align="center">hmm.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-coder-lg&label=Profile%20views&color=0e75b6&style=flat" alt="im-coder-lg" /> </p>
 
