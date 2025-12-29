@@ -5,34 +5,34 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-coder-lg" alt="im-coder-lg" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/imcoderlg" target="blank"><img src="https://img.shields.io/twitter/follow/imcoderlg?logo=twitter&style=for-the-badge" alt="imcoderlg" /></a> </p>
+~~`<p align="left"> <a href="https://twitter.com/imcoderlg" target="blank"><img src="https://img.shields.io/twitter/follow/imcoderlg?logo=twitter&style=for-the-badge" alt="imcoderlg" /></a> </p>`~~ GETOUT-
 
 I'm offline these days since I don't have much time to code, but I see that many people are following me/starting to follow me. I do not know why, honestly, but it's cool.
 
-- 🔭 I’m currently working on [nothing? 3x+1](https://dub.sh/hahatrickrolled)
+- 🔭 I’m currently working on <!--leveling up, beating Jevil, focusing on projects, getting my German right, and yap yap yap-->
 
-- 🌱 I’m currently learning **11th grade and Python!**
+- 🌱 I’m currently [[going through hell]]
 
 - 👯 I’m looking to collaborate on [some projects](https://dub.sh/hahatrickrolled) like [Weather](https://github.com/Futura-Py/weather)
 
-- 🤝 I’m looking for help with [a calendar app using math](https://dub.sh/hahatrickrolled)
+- 🤝 ~~I’m looking for help with [a calendar app using math](https://dub.sh/hahatrickrolled)~~ dumped that old thing, I need to relearn that
 
 - 👨‍💻 All of my projects are available at [github.com/im-coder-lg](github.com/im-coder-lg)
 
-- 📝 I (ir)regularly write articles on [imcoderlg-rkt.netlify.app](imcoderlg-rkt.netlify.app)
+- 📝 I (very ir)regularly write articles on [imcoderlg-rkt.netlify.app](imcoderlg-rkt.netlify.app)
 
-- 💬 Ask me about **Python, packaging, tech, math**
+- 💬 Ask me about **Python, packaging, tech, math** - please, calculus, I love it and hate it
 
-- 📫 How to reach me **imcoderlg@skiff.com**
+- 📫 How to reach me **imcoderlg@skiff.com** <- Skiff is gone. 'tis a shame.
 
 - 📄 Know about my experiences [nop. beat it](https://dub.sh/hahatrickrolled)
 
-- ⚡ Fun fact **I HATE Rook A4**
+- ⚡ Fun fact **THE SENSATION OF YOUR SCREEN, THE SHOW THAT MAKES YOU SCREAM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/imcoderlg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imcoderlg" height="30" width="40" /></a>
-<a href="https://twitter.com/imcoderlg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imcoderlg" height="30" width="40" /></a>
+<a href="https://twitter.com/imcoderlg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imcoderlg" height="30" width="40" /></a> TWITTER NO MORE?
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
