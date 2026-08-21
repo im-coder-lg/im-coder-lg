@@ -1,3 +1,17 @@
+# Hello there!
+
+It has definitely been a while since I've been here.
+
+So, where do I start? Ah, yes.
+
+I am a 17-year-old guy, just a regular dude who does stuff.
+
+I play a lot of DELTARUNE, I like coding in Python, and I am in university now, so I'll be hosting projects here.
+
+Think I'll change the username soon, need to decide upon a new one.
+
+
+<!--
 <h1 align="center">Hi 👋, I'm im-coder-lg</h1>
 <h3 align="center">hmm.</h3>
 
@@ -10,6 +24,7 @@
 I'm offline these days since I don't have much time to code, but I see that many people are following me/starting to follow me. I do not know why, honestly, but it's cool.
 
 - 🔭 I’m currently working on <!--leveling up, beating Jevil, focusing on projects, getting my German right, and yap yap yap-->
+<!--
 
 - 🌱 I’m currently [[going through hell]]
 
@@ -183,6 +198,7 @@ Play games, play chess, make blogs on programming, help others on GitHub
 ------
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [Blog 3: My experience with the Raspberry Pi](https://im-coder-lg.github.io/2021/10/21/blog-3.html)
 - [The Intercontinental Ballistic Missile Gambit&lpar;A06&rpar;](https://coderlg.coding.blog/2021-08-28-icbm)
 - [One strange and scary Zoombooming method](https://coderlg.coding.blog/2021-08-28-zoomboom)
@@ -190,7 +206,7 @@ Play games, play chess, make blogs on programming, help others on GitHub
 - [Gitpod. And the automation.](https://coderlg.coding.blog/2021-08-18-gitpodDockerfile)
 <!-- BLOG-POST-LIST:END -->  
 ------
-
+<!--
 ***
 ## Metrics
 ***
@@ -224,3 +240,4 @@ Play games, play chess, make blogs on programming, help others on GitHub
 </details>
 
 </details>
+-->
