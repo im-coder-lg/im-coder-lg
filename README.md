@@ -8,8 +8,14 @@ I am a 17-year-old guy, just a regular dude who does stuff.
 
 I play a lot of DELTARUNE, I like coding in Python, and I am in university now, so I'll be hosting projects here.
 
-Think I'll change the username soon, need to decide upon a new one.
+~~Think I'll change the username soon, need to decide upon a new one.~~ this one will be good for a while I guess
 
+<details> <summary>a tiny bit of history</summary>
+  
+used to be `im-coder-lg`
+here we are now
+
+</details>
 
 <!--
 <h1 align="center">Hi 👋, I'm im-coder-lg</h1>
